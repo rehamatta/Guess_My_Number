@@ -1,2 +1,2 @@
 # Guess_My_Number
-JavaScript Practice
+HTML , CSS and JavaScript Practice
