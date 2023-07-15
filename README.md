@@ -1,5 +1,5 @@
 # Guess_My_Number
-HTML , CSS and JavaScript Practice
+HTML , CSS and JavaScript Practise
 
 Guess the number if the number you guess is greater than the random number it will tell you too high
 other it will tell you too low
